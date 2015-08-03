@@ -21,4 +21,5 @@ It includes films I haven't watched and want to do so, films I watched a long ag
   * Alice in den Städten, by Wim Wenders
   * Ghost Dog, by Jim Jarmush
   * Into the Void
-  *  
+  * NNetwork, by Sydney Lumet
+  * The Yakuza, by Sydney Pollack
