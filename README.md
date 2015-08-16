@@ -7,7 +7,7 @@ It includes films I haven't watched and want to do so, films I watched a long ag
   * Upstream Color, by Shane Carruth ([imdb](http://www.imdb.com/title/tt2084989/))
   * Iron 3, by Kim Ki Duk
   * Hero, by Zhang Yimou
-  * La Jetee
+  * La Jetee, by Chris Marker ([imdb](http://www.imdb.com/title/tt0056119/?ref_=nv_sr_1), [youtube](https://www.youtube.com/watch?v=zKW8kLGJYXg))
   * Lawrence of Arabia, by David Lean
   * Another Earth
   * Cloud Atlas
