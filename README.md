@@ -4,7 +4,7 @@ This is the list of films that I find inspiring.
 
 It includes films I haven't watched and want to do so, films I watched a long ago and I want to see them again and films thta I have already watched recently.
 
-  * Upstream Color (2013), by Shane Carruth ([imdb](http://www.imdb.com/title/tt2084989/))
+  * *Upstream Color (2013)*, by Shane Carruth ([imdb](http://www.imdb.com/title/tt2084989/))
   * The Hustler (1961), by Robert Rossen ([imdb](http://www.imdb.com/title/tt0054997))
   * 3-Iron (2004), by Kim Ki Duk ([imdb](http://www.imdb.com/title/tt0423866))
   * Hero (2002), by Zhang Yimou ([imdb](http://www.imdb.com/title/tt0299977))
