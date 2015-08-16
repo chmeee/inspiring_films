@@ -4,8 +4,8 @@ This is the list of films that I find inspiring.
 
 It includes films I haven't watched and want to do so, films I watched a long ago and I want to see them again and films thta I have already watched recently.
 
-  * Upstream Color, by Shane Carruth ([imdb](http://www.imdb.com/title/tt2084989/))
-  * Iron 3, by Kim Ki Duk
+  * Upstream Color (2013), by Shane Carruth ([imdb](http://www.imdb.com/title/tt2084989/))
+  * 3-Iron (2004), by Kim Ki Duk ([imdb](http://www.imdb.com/title/tt0423866))
   * Hero, by Zhang Yimou
   * La Jetee, by Chris Marker ([imdb](http://www.imdb.com/title/tt0056119/?ref_=nv_sr_1), [youtube](https://www.youtube.com/watch?v=zKW8kLGJYXg))
   * Lawrence of Arabia, by David Lean
