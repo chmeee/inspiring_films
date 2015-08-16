@@ -15,12 +15,12 @@ It includes films I haven't watched and want to do so, films I watched a long ag
   * **Mad Max** (1979), by George Miller ([imdb](http://www.imdb.com/title/tt0079501))
   * **Mad Max 2** (1981), by George Miller ([imdb](http://www.imdb.com/title/tt0082694))
   * **Mad Max Fury Road** (2015), by George Miller ([imdb](http://www.imdb.com/title/tt1392190))
-  * **Historias del Kronen**
-  * **Los cronocrímenes**, by Nacho Vigalondo
-  * **Extraterrestre**, by Nacho Vigalondo
+  * **Historias del Kronen** (1995), by Montxo Armendariz ([imdb](http://www.imdb.com/title/tt0110036))
+  * **Los cronocrímenes** (2007), by Nacho Vigalondo ([imdb](http://www.imdb.com/title/tt0480669))
+  * **Extraterrestre** (2011), by Nacho Vigalondo ([imdb](http://www.imdb.com/title/tt1680133))
   * **Astronautas**, by Santi Amodeo
-  * **Alice in den Städten**, by Wim Wenders
+  * **Alice in den Städten** (1974), by Wim Wenders ([imdb](http://www.imdb.com/title/tt0069687), [ello](https://ello.co/chmeee/post/ifnxv_PFO1d3nBFBKKw55Q))
   * **Ghost Dog**, by Jim Jarmush
   * **Into the Void**, by Gaspar Noé
-  * **Network**, by Sydney Lumet
-  * **The Yakuza**, by Sydney Pollack
+  * **Network** (1976), by Sydney Lumet
+  * **The Yakuza** (1974), by Sydney Pollack
