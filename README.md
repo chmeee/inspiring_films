@@ -4,7 +4,7 @@ This is the list of films that I find inspiring.
 
 It includes films I haven't watched and want to do so, films I watched a long ago and I want to see them again and films thta I have already watched recently.
 
-## Watched
+## Recently watched
   * **Upstream Color** (2013), by Shane Carruth ([imdb](http://www.imdb.com/title/tt2084989/))
   * **The Hustler** (1961), by Robert Rossen ([imdb](http://www.imdb.com/title/tt0054997))
   * **3-Iron** (2004), by Kim Ki Duk ([imdb](http://www.imdb.com/title/tt0423866))
@@ -26,8 +26,10 @@ It includes films I haven't watched and want to do so, films I watched a long ag
   * **The Yakuza** (1974), by Sydney Pollack
   * **Pi**, by Darren Aranofsky
   * **Citizen Kane**, by Orson Wells
-  * **Root of evil**, by Orson Wells
+  * **Touch of evil**, by Orson Wells
   * **Beautiful girls**, 
+  * **Mr. Nobody**, 
+  * **Memento**, 
 
 ## Want to watch again
 
@@ -42,4 +44,3 @@ It includes films I haven't watched and want to do so, films I watched a long ag
   * **Hidden fortress**, by Akira Kurosawa
   * **Riding alone for thousand of miles**, by Zhang Yimou
   * **Japanese Story**, 
-  * 
