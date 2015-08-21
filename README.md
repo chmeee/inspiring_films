@@ -30,6 +30,11 @@ It includes films I haven't watched and want to do so, films I watched a long ag
   * **Beautiful girls**, 
   * **Mr. Nobody**, 
   * **Memento**, 
+  * **Prince of Darkness**, by John Carpenter
+  * **The Thing**, by John Carpenter
+  * **They live**, by John Carpenter
+  * **Escape from NY**, by John Carpenter
+  * **Badlands**, by Terence Malick
 
 ## Want to watch again
 
@@ -37,6 +42,8 @@ It includes films I haven't watched and want to do so, films I watched a long ag
   * **The Fountain**, by Darren Aranofsky
   * **Astronautas**, by Santi Amodeo
   * **Until the end of the world**, by Wim Wenders
+  * **Hidden agenda**, by Ken Loach
+  * **Sleuth** (1972), by Joseph L. Mankiewicz ([imdb](http://www.imdb.com/title/tt0069281))
 
 ## Not yet watched
 
@@ -44,3 +51,4 @@ It includes films I haven't watched and want to do so, films I watched a long ag
   * **Hidden fortress**, by Akira Kurosawa
   * **Riding alone for thousand of miles**, by Zhang Yimou
   * **Japanese Story**, 
+  * **Escape from LA**, by John Carpenter
