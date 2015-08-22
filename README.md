@@ -40,7 +40,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Badlands**, by Terence Malick
   * **The Maltese falcon**, by John Huston
   * **The Fall** (2006), by 
-  * **Big bad wolfes**, by
+  * **Big bad wolves** (2013), by Aharon Keshales and Navot Papushado ([imdb](http://www.imdb.com/title/tt2309224/))
 
 ## Want to watch again
 
@@ -78,3 +78,4 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **L'écume des jours** (2013), by Michel Gondry ([imdb](http://www.imdb.com/title/tt2027140))
   * **Naked lunch**, by David Cronenberg
   * **The Go Master** (2006), 
+  * **The divine move** (2014), by Beom-gu Cho ([imdb](http://www.imdb.com/title/tt3419894/))
