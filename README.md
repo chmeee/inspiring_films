@@ -44,6 +44,7 @@ It includes films I haven't watched and want to do so, films I watched a long ag
   * **Until the end of the world**, by Wim Wenders
   * **Hidden agenda**, by Ken Loach
   * **Sleuth** (1972), by Joseph L. Mankiewicz ([imdb](http://www.imdb.com/title/tt0069281))
+  * **Hana Bi**, by Takeshi Kitano
 
 ## Not yet watched
 
@@ -58,3 +59,10 @@ It includes films I haven't watched and want to do so, films I watched a long ag
   * **Dersu Uzala** (1975), by Akira Kurosawa ([imdb](http://www.imdb.com/title/tt0071411))
   * **Throne of blood** (1957), by Akira Kurosawa ([imdb](http://www.imdb.com/title/tt0050613))
   * **Rashomon** (1950), by Akira Kurosawa ([imdb](http://www.imdb.com/title/tt0050613))
+  * **Straight Story**, by David Lynch
+  * **The American friend**, by Wim Wenders
+  * **Kings of the road**, by Wim Wenders
+  * **Der Himmel ûber Berlin**, by Wim Wenders
+  * **In weiter Ferne, so nah!**, by Wim Wenders
+  * **Der Stand der Dinge**, by Wim Wenders
+  * **Lisboa Story**, by Wim Wenders
