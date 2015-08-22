@@ -25,6 +25,7 @@ It includes films I haven't watched and want to do so, films I watched a long ag
   * **Network** (1976), by Sydney Lumet
   * **The Yakuza** (1974), by Sydney Pollack
   * **Pi**, by Darren Aranofsky
+  * **The Fountain**, by Darren Aranofsky
   * **Citizen Kane**, by Orson Wells
   * **Touch of evil**, by Orson Wells
   * **Beautiful girls**, 
@@ -39,7 +40,6 @@ It includes films I haven't watched and want to do so, films I watched a long ag
 ## Want to watch again
 
   * **Historias del Kronen** (1995), by Montxo Armendariz ([imdb](http://www.imdb.com/title/tt0110036))
-  * **The Fountain**, by Darren Aranofsky
   * **Astronautas**, by Santi Amodeo
   * **Until the end of the world**, by Wim Wenders
   * **Hidden agenda**, by Ken Loach
@@ -48,7 +48,13 @@ It includes films I haven't watched and want to do so, films I watched a long ag
 ## Not yet watched
 
   * **Tokyo Story**,
-  * **Hidden fortress**, by Akira Kurosawa
+  * **The Hidden fortress**, by Akira Kurosawa
   * **Riding alone for thousand of miles**, by Zhang Yimou
   * **Japanese Story**, 
   * **Escape from LA**, by John Carpenter
+  * **Long day's journey to the night** (1962), by Sidney Lumet
+  * **Vibrator** (2003), by Ryuichi Hiroki ([imdb](http://www.imdb.com/title/tt0379576))
+  * **Ikiru** (1952), by Akira Kurosawa ([imdb](http://www.imdb.com/title/tt0044741))
+  * **Dersu Uzala** (1975), by Akira Kurosawa ([imdb](http://www.imdb.com/title/tt0071411))
+  * **Throne of blood** (1957), by Akira Kurosawa ([imdb](http://www.imdb.com/title/tt0050613))
+  * **Rashomon** (1950), by Akira Kurosawa ([imdb](http://www.imdb.com/title/tt0050613))
