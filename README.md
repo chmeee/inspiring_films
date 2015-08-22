@@ -1,8 +1,10 @@
 # Inspiring films
 
-This is the list of films that I find inspiring.
+This is the list of films that I find inspiring. It's still work in progress.
 
 It includes films I haven't watched and want to do so, films I watched a long ago and I want to see them again and films thta I have already watched recently.
+
+Please, feel free to fork it and add your favorite and inspiring movies, too.
 
 ## Recently watched
   * **Upstream Color** (2013), by Shane Carruth ([imdb](http://www.imdb.com/title/tt2084989/))
@@ -45,6 +47,8 @@ It includes films I haven't watched and want to do so, films I watched a long ag
   * **Hidden agenda**, by Ken Loach
   * **Sleuth** (1972), by Joseph L. Mankiewicz ([imdb](http://www.imdb.com/title/tt0069281))
   * **Hana Bi**, by Takeshi Kitano
+  * **Eternal sunshine of the spotless mind** (2014), by Michel Gondry ([imdb](http://www.imdb.com/title/tt0338013/))
+  * **Videodrome**, by David Cronenberg
 
 ## Not yet watched
 
@@ -66,3 +70,5 @@ It includes films I haven't watched and want to do so, films I watched a long ag
   * **In weiter Ferne, so nah!**, by Wim Wenders
   * **Der Stand der Dinge**, by Wim Wenders
   * **Lisboa Story**, by Wim Wenders
+  * **The science of sleep** (2006), by Michel Gondry ([imdb](http://www.imdb.com/title/tt0354899))
+  * **L'écume des jours** (2013), by Michel Gondry ([imdb](http://www.imdb.com/title/tt2027140))
