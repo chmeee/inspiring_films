@@ -38,6 +38,9 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **They live**, by John Carpenter
   * **Escape from NY**, by John Carpenter
   * **Badlands**, by Terence Malick
+  * **The Maltese falcon**, by John Huston
+  * **The Fall** (2006), by 
+  * **Big bad wolfes**, by
 
 ## Want to watch again
 
@@ -49,6 +52,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Hana Bi**, by Takeshi Kitano
   * **Eternal sunshine of the spotless mind** (2014), by Michel Gondry ([imdb](http://www.imdb.com/title/tt0338013/))
   * **Videodrome**, by David Cronenberg
+  * **The African Queen**, 
 
 ## Not yet watched
 
@@ -72,3 +76,5 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Lisboa Story**, by Wim Wenders
   * **The science of sleep** (2006), by Michel Gondry ([imdb](http://www.imdb.com/title/tt0354899))
   * **L'écume des jours** (2013), by Michel Gondry ([imdb](http://www.imdb.com/title/tt2027140))
+  * **Naked lunch**, by David Cronenberg
+  * **The Go Master** (2006), 
