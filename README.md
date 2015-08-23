@@ -41,6 +41,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **The Maltese falcon**, by John Huston
   * **The Fall** (2006), by 
   * **Big bad wolves** (2013), by Aharon Keshales and Navot Papushado ([imdb](http://www.imdb.com/title/tt2309224/))
+  * **Una pura formalità** (1994), by Giuseppe Tornatore ([imdb](http://www.imdb.com/title/tt0110917))
 
 ## Want to watch again
 
@@ -53,6 +54,9 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Eternal sunshine of the spotless mind** (2014), by Michel Gondry ([imdb](http://www.imdb.com/title/tt0338013/))
   * **Videodrome**, by David Cronenberg
   * **The African Queen**, 
+  * **Cinema Paradiso** (1988), by Giuseppe Tornatore
+  * **Ça commence aujourd'hui** (1999), by Bertrand Tavernier ([imdb](http://www.imdb.com/title/tt0186730))
+  * **Jugten** (2012), by Thomas Vinterberg ([imdb](http://www.imdb.com/title/tt2106476))
 
 ## Not yet watched
 
@@ -79,3 +83,4 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Naked lunch**, by David Cronenberg
   * **The Go Master** (2006), 
   * **The divine move** (2014), by Beom-gu Cho ([imdb](http://www.imdb.com/title/tt3419894/))
+  * **L'uomo delle stelle** (1995), by Giuseppe Tornatore ([imdb](http://www.imdb.com/title/tt0114808))
