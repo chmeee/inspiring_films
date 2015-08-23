@@ -43,6 +43,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Big bad wolves** (2013), by Aharon Keshales and Navot Papushado ([imdb](http://www.imdb.com/title/tt2309224/))
   * **Una pura formalità** (1994), by Giuseppe Tornatore ([imdb](http://www.imdb.com/title/tt0110917))
   * **The divine move** (2014), by Beom-gu Cho ([imdb](http://www.imdb.com/title/tt3419894/))
+  * **Jugten** (2012), by Thomas Vinterberg ([imdb](http://www.imdb.com/title/tt2106476))
 
 ## Want to watch again
 
@@ -57,7 +58,9 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **The African Queen**, 
   * **Cinema Paradiso** (1988), by Giuseppe Tornatore
   * **Ça commence aujourd'hui** (1999), by Bertrand Tavernier ([imdb](http://www.imdb.com/title/tt0186730))
-  * **Jugten** (2012), by Thomas Vinterberg ([imdb](http://www.imdb.com/title/tt2106476))
+  * **Los amantes del círculo polar**, by Julio Medem
+  * **Mi hermano del alma**, by Mariano Barroso
+  * **Éxtasis**, by Mariano Barroso
 
 ## Not yet watched
 
