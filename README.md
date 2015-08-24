@@ -80,6 +80,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Little Miss Sunshine**, 
   * **Taxi Driver**, by Martin Scorsese
   * **Bridge over river Kwai**, by David Lean
+ * **The road home** (1999) , by Zhang Yimou 
 
 ## Not yet watched
 
