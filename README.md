@@ -32,7 +32,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Touch of evil**, by Orson Wells
   * **Beautiful girls**, 
   * **Mr. Nobody**, 
-  * **Memento**, 
+  * **Memento**, by Christopher Nolan
   * **Prince of Darkness**, by John Carpenter
   * **The Thing**, by John Carpenter
   * **They live**, by John Carpenter
@@ -44,6 +44,16 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Una pura formalità** (1994), by Giuseppe Tornatore ([imdb](http://www.imdb.com/title/tt0110917))
   * **The divine move** (2014), by Beom-gu Cho ([imdb](http://www.imdb.com/title/tt3419894/))
   * **Jugten** (2012), by Thomas Vinterberg ([imdb](http://www.imdb.com/title/tt2106476))
+  * **Her*, by Spike Jonze
+  * **Before sunrise**, by Richard Linklater
+  * **Before sunset**, by Richard Linklater
+  * **Before midnight**, by Richard Linklater
+  * **Waking life**, by Richard Linklater
+  * **Lola rennt**, 
+  * **Scent of a woman**,
+  * **Casablanca**
+  * **Under the skin**
+  * **The sweet hereafter**, by Atom Egoyan
 
 ## Want to watch again
 
@@ -59,8 +69,17 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Cinema Paradiso** (1988), by Giuseppe Tornatore
   * **Ça commence aujourd'hui** (1999), by Bertrand Tavernier ([imdb](http://www.imdb.com/title/tt0186730))
   * **Los amantes del círculo polar**, by Julio Medem
+  * **Tierra**, by Julio Medem
+  * **Caótica Ana**, by Julio Medem
   * **Mi hermano del alma**, by Mariano Barroso
   * **Éxtasis**, by Mariano Barroso
+  * **Primer**, by Shane Carruth
+  * **Jeremiah Johnson**
+  * **Exotica**, by Atom Egoyan
+  * **The adjuster**, by Atom Egoyan
+  * **Little Miss Sunshine**, 
+  * **Taxi Driver**, by Martin Scorsese
+  * **Bridge over river Kwai**, by David Lean
 
 ## Not yet watched
 
@@ -75,7 +94,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Dersu Uzala** (1975), by Akira Kurosawa ([imdb](http://www.imdb.com/title/tt0071411))
   * **Throne of blood** (1957), by Akira Kurosawa ([imdb](http://www.imdb.com/title/tt0050613))
   * **Rashomon** (1950), by Akira Kurosawa ([imdb](http://www.imdb.com/title/tt0050613))
-  * **Straight Story**, by David Lynch
+  * **A straight story**, by David Lynch
   * **The American friend**, by Wim Wenders
   * **Kings of the road**, by Wim Wenders
   * **Der Himmel ûber Berlin**, by Wim Wenders
@@ -88,3 +107,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **The Go Master** (2006), 
   * **L'uomo delle stelle** (1995), by Giuseppe Tornatore ([imdb](http://www.imdb.com/title/tt0114808))
   * **Timbuktu**
+  * **Moonrise kingdom**, by Wes Anderson
+  * **Following**, by Christopher Nolan
+  * **Mean streets**, by Martin Scorsese
+  * **Princess Mononoke**, by Hideo Miyazaki
