@@ -81,6 +81,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Little Miss Sunshine**, 
   * **Taxi Driver**, by Martin Scorsese
   * **The bridge over river Kwai**, by David Lean
+  * **The road home** (1999) , by Zhang Yimou 
   * **Cosas que nunca te dije**, by Isabel Coixet
 
 ## Not yet watched
