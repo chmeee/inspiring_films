@@ -44,16 +44,17 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Una pura formalità** (1994), by Giuseppe Tornatore ([imdb](http://www.imdb.com/title/tt0110917))
   * **The divine move** (2014), by Beom-gu Cho ([imdb](http://www.imdb.com/title/tt3419894/))
   * **Jugten** (2012), by Thomas Vinterberg ([imdb](http://www.imdb.com/title/tt2106476))
-  * **Her*, by Spike Jonze
+  * **Her**, by Spike Jonze
   * **Before sunrise**, by Richard Linklater
   * **Before sunset**, by Richard Linklater
   * **Before midnight**, by Richard Linklater
   * **Waking life**, by Richard Linklater
   * **Lola rennt**, 
   * **Scent of a woman**,
-  * **Casablanca**
-  * **Under the skin**
+  * **Casablanca** (1942), by Michael Curtiz ([imdb](http://www.imdb.com/title/tt0034583))
+  * **Under the skin** (2013), by Jonathan Glazer ([imdb](http://www.imdb.com/title/tt1441395))
   * **The sweet hereafter**, by Atom Egoyan
+  * **Song of the sea** (2014), by Tomm More ([imdb](http://www.imdb.com/title/tt1865505))
 
 ## Want to watch again
 
@@ -79,7 +80,8 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **The adjuster**, by Atom Egoyan
   * **Little Miss Sunshine**, 
   * **Taxi Driver**, by Martin Scorsese
-  * **Bridge over river Kwai**, by David Lean
+  * **The bridge over river Kwai**, by David Lean
+  * **Cosas que nunca te dije**, by Isabel Coixet
 
 ## Not yet watched
 
@@ -111,3 +113,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Following**, by Christopher Nolan
   * **Mean streets**, by Martin Scorsese
   * **Princess Mononoke**, by Hideo Miyazaki
+  * **Locke** (2013), by Steven Knight ([imdb](http://www.imdb.com/title/tt2692904))
+  * **The secret of Kells** (2009), by Tomm Moore and Nora Twomey ([imdb](http://www.imdb.com/title/tt0485601))
+  * **Map of the Sounds of Tokyo**, by Isabel Coixet
