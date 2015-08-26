@@ -55,6 +55,8 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Under the skin** (2013), by Jonathan Glazer ([imdb](http://www.imdb.com/title/tt1441395))
   * **The sweet hereafter**, by Atom Egoyan
   * **Song of the sea** (2014), by Tomm More ([imdb](http://www.imdb.com/title/tt1865505))
+  * **My neighbour Totoro**, by Hayao Miyazaki
+  * **Ponyo**, by Hayao Miyazaki
 
 ## Want to watch again
 
@@ -83,6 +85,8 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **The bridge over river Kwai**, by David Lean
   * **The road home** (1999) , by Zhang Yimou 
   * **Cosas que nunca te dije**, by Isabel Coixet
+  * **Solaris**, by Adrei Tarkovsky
+  * **Stalker**, by Adrei Tarkovsky
 
 ## Not yet watched
 
@@ -113,7 +117,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Moonrise kingdom**, by Wes Anderson
   * **Following**, by Christopher Nolan
   * **Mean streets**, by Martin Scorsese
-  * **Princess Mononoke**, by Hideo Miyazaki
+  * **Princess Mononoke**, by Hayao Miyazaki
   * **Locke** (2013), by Steven Knight ([imdb](http://www.imdb.com/title/tt2692904))
   * **The secret of Kells** (2009), by Tomm Moore and Nora Twomey ([imdb](http://www.imdb.com/title/tt0485601))
   * **Map of the Sounds of Tokyo**, by Isabel Coixet
