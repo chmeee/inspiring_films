@@ -43,7 +43,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Big bad wolves** (2013), by Aharon Keshales and Navot Papushado ([imdb](http://www.imdb.com/title/tt2309224/))
   * **Una pura formalità** (1994), by Giuseppe Tornatore ([imdb](http://www.imdb.com/title/tt0110917))
   * **The divine move** (2014), by Beom-gu Cho ([imdb](http://www.imdb.com/title/tt3419894/))
-  * **Jugten** (2012), by Thomas Vinterberg ([imdb](http://www.imdb.com/title/tt2106476))
+  * **Jagten** (2012), by Thomas Vinterberg ([imdb](http://www.imdb.com/title/tt2106476))
   * **Her**, by Spike Jonze
   * **Before sunrise**, by Richard Linklater
   * **Before sunset**, by Richard Linklater
@@ -57,6 +57,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Song of the sea** (2014), by Tomm More ([imdb](http://www.imdb.com/title/tt1865505))
   * **My neighbour Totoro**, by Hayao Miyazaki
   * **Ponyo**, by Hayao Miyazaki
+  * **Funny games**, by Michael Haneke
 
 ## Want to watch again
 
@@ -87,6 +88,14 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Cosas que nunca te dije**, by Isabel Coixet
   * **Solaris**, by Adrei Tarkovsky
   * **Stalker**, by Adrei Tarkovsky
+  * **Noviembre**, by Achero Mañas
+  * **Ulysses' gaze**, by Theodoros Angelopoulos
+  * **Lost highway**, by David Lynch
+  * **Cube**, by Vincenzo Natali
+  * **Cypher**, by Vincenzo Natali
+  * **Nothing**, by Vincenzo Natali
+  * **Life Acquatic**, by Wes Anderson
+  * **Lost in translation**, by Sofia Coppola
 
 ## Not yet watched
 
@@ -115,9 +124,13 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **L'uomo delle stelle** (1995), by Giuseppe Tornatore ([imdb](http://www.imdb.com/title/tt0114808))
   * **Timbuktu**
   * **Moonrise kingdom**, by Wes Anderson
+  * **The Royal Tenenbaums*, by Wes Anderson
   * **Following**, by Christopher Nolan
   * **Mean streets**, by Martin Scorsese
   * **Princess Mononoke**, by Hayao Miyazaki
   * **Locke** (2013), by Steven Knight ([imdb](http://www.imdb.com/title/tt2692904))
   * **The secret of Kells** (2009), by Tomm Moore and Nora Twomey ([imdb](http://www.imdb.com/title/tt0485601))
   * **Map of the Sounds of Tokyo**, by Isabel Coixet
+  * **Samsara** (2011)
+  * **Eternity and a day**, by Theodoros Angelopoulos
+  * **Boyhood**, by Richard Linklater
