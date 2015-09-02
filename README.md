@@ -58,6 +58,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **My neighbour Totoro**, by Hayao Miyazaki
   * **Ponyo**, by Hayao Miyazaki
   * **Funny games**, by Michael Haneke
+  * **Europa Report**
 
 ## Want to watch again
 
@@ -96,6 +97,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Nothing**, by Vincenzo Natali
   * **Life Acquatic**, by Wes Anderson
   * **Lost in translation**, by Sofia Coppola
+  * **American beauty**, by Sam Mendes
 
 ## Not yet watched
 
