@@ -59,6 +59,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Ponyo**, by Hayao Miyazaki
   * **Funny games**, by Michael Haneke
   * **Europa Report**
+  * **American beauty**, by Sam Mendes
 
 ## Want to watch again
 
@@ -93,11 +94,11 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Ulysses' gaze**, by Theodoros Angelopoulos
   * **Lost highway**, by David Lynch
   * **Cube**, by Vincenzo Natali
-  * **Cypher**, by Vincenzo Natali
+  * **Cypher** (2002), by Vincenzo Natali ([imdb](http://www.imdb.com/title/tt0284978))
   * **Nothing**, by Vincenzo Natali
   * **Life Acquatic**, by Wes Anderson
   * **Lost in translation**, by Sofia Coppola
-  * **American beauty**, by Sam Mendes
+  * **High fidelity**
 
 ## Not yet watched
 
