@@ -113,6 +113,9 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Dersu Uzala** (1975), by Akira Kurosawa ([imdb](http://www.imdb.com/title/tt0071411))
   * **Throne of blood** (1957), by Akira Kurosawa ([imdb](http://www.imdb.com/title/tt0050613))
   * **Rashomon** (1950), by Akira Kurosawa ([imdb](http://www.imdb.com/title/tt0050613))
+  * **Dreams** (1990), by Akira Kurosawa
+  * **Ran**, by Akira Kurosawa
+  * **Red beard**, by Akira Kurosawa
   * **A straight story**, by David Lynch
   * **The American friend**, by Wim Wenders
   * **Kings of the road**, by Wim Wenders
@@ -137,3 +140,5 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Samsara** (2011)
   * **Eternity and a day**, by Theodoros Angelopoulos
   * **Boyhood**, by Richard Linklater
+  * **Rudderless** (2014), 
+  * **Ten nights of dreams**
