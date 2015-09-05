@@ -60,6 +60,8 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Funny games**, by Michael Haneke
   * **Europa Report**
   * **American beauty**, by Sam Mendes
+  * **Paths of glory**, by Stanley Kubrick
+  * **Children of men**
 
 ## Want to watch again
 
@@ -99,6 +101,11 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Life Acquatic**, by Wes Anderson
   * **Lost in translation**, by Sofia Coppola
   * **High fidelity**
+  * **12 angry men** (1957)
+  * **Ciudade de Deus** (2002), by Fernando Merielles and Katia Lund ([imdb](http://www.imdb.com/title/tt0317248))
+  * **Donnie Darko** (2001)
+  * **21 grams**
+  * **The remains of the day**
 
 ## Not yet watched
 
@@ -130,7 +137,8 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **L'uomo delle stelle** (1995), by Giuseppe Tornatore ([imdb](http://www.imdb.com/title/tt0114808))
   * **Timbuktu**
   * **Moonrise kingdom**, by Wes Anderson
-  * **The Royal Tenenbaums*, by Wes Anderson
+  * **The Royal Tenenbaums**, by Wes Anderson
+  * **Fantastic Mr. Fox**, by Wes Anderson
   * **Following**, by Christopher Nolan
   * **Mean streets**, by Martin Scorsese
   * **Princess Mononoke**, by Hayao Miyazaki
@@ -142,3 +150,9 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Boyhood**, by Richard Linklater
   * **Rudderless** (2014), 
   * **Ten nights of dreams**
+  * **The night of the hunter** (1955)
+  * **Persona** (1966)
+  * **Up**
+  * **Amores perros**
+  * **Birdman**
+  * **The iron giant**
