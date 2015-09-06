@@ -62,6 +62,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **American beauty**, by Sam Mendes
   * **Paths of glory**, by Stanley Kubrick
   * **Children of men**
+  * **Das Leben der Anderen** (2006), by Florian Henckel von Donnersmarck ([imdb](http://www.imdb.com/title/tt0405094))
 
 ## Want to watch again
 
@@ -106,6 +107,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Donnie Darko** (2001)
   * **21 grams**
   * **The remains of the day**
+  * **The machinist**
 
 ## Not yet watched
 
@@ -152,7 +154,17 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Ten nights of dreams**
   * **The night of the hunter** (1955)
   * **Persona** (1966)
+  * **The seventh seal**
   * **Up**
   * **Amores perros**
   * **Birdman**
   * **The iron giant**
+  * **Grave of the fireflies**
+  * **5 centimeters per second**, by Makoto Shinkai
+  * **The girl who leapt through time**, by Mamoru Hosoda
+  * **Tokyo godfathers**, ([imdb](http://www.imdb.com/title/tt0388473))
+  * **The deer hunter** (1978), by Michael Cimino ([imdb](http://www.imdb.com/title/tt0077416))
+  * **Ladri di biciclette** (1948), by Vittorio de Sica
+  * **Nightcrawler**
+  * **Underground**, by Emir Kusturica
+  * **Black cat, white cat**, by Emir Kusturica
