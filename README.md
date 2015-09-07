@@ -71,7 +71,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Until the end of the world**, by Wim Wenders
   * **Hidden agenda**, by Ken Loach
   * **Sleuth** (1972), by Joseph L. Mankiewicz ([imdb](http://www.imdb.com/title/tt0069281))
-  * **Hana Bi**, by Takeshi Kitano
+  * **Hana Bi** (1997), by Takeshi Kitano
   * **Eternal sunshine of the spotless mind** (2014), by Michel Gondry ([imdb](http://www.imdb.com/title/tt0338013/))
   * **Videodrome**, by David Cronenberg
   * **The African Queen**, 
@@ -108,6 +108,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **21 grams**
   * **The remains of the day**
   * **The machinist**
+  * **The commitments** (1991), by Alan Parker ([imdb](http://www.imdb.com/title/tt0101605))
 
 ## Not yet watched
 
@@ -168,3 +169,4 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Nightcrawler**
   * **Underground**, by Emir Kusturica
   * **Black cat, white cat**, by Emir Kusturica
+  * **Once**
