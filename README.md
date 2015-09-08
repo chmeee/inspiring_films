@@ -36,7 +36,8 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Prince of Darkness**, by John Carpenter
   * **The Thing**, by John Carpenter
   * **They live**, by John Carpenter
-  * **Escape from NY**, by John Carpenter
+  * **Escape from NY** (1981), by John Carpenter ([imdb](http://www.imdb.com/title/tt0082340))
+  * **Escape from LA** (1996), by John Carpenter ([imdb](http://www.imdb.com/title/tt0116225))
   * **Badlands**, by Terence Malick
   * **The Maltese falcon**, by John Huston
   * **The Fall** (2006), by 
@@ -109,6 +110,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **The remains of the day**
   * **The machinist**
   * **The commitments** (1991), by Alan Parker ([imdb](http://www.imdb.com/title/tt0101605))
+  * **Fight Club**, by David Fincher
 
 ## Not yet watched
 
@@ -116,7 +118,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **The Hidden fortress**, by Akira Kurosawa
   * **Riding alone for thousand of miles**, by Zhang Yimou
   * **Japanese Story**, 
-  * **Escape from LA**, by John Carpenter
   * **Long day's journey to the night** (1962), by Sidney Lumet
   * **Vibrator** (2003), by Ryuichi Hiroki ([imdb](http://www.imdb.com/title/tt0379576))
   * **Ikiru** (1952), by Akira Kurosawa ([imdb](http://www.imdb.com/title/tt0044741))
