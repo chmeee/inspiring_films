@@ -64,6 +64,8 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Paths of glory**, by Stanley Kubrick
   * **Children of men**
   * **Das Leben der Anderen** (2006), by Florian Henckel von Donnersmarck ([imdb](http://www.imdb.com/title/tt0405094))
+  * **Easy rider** (1969), by Dennis Hopper ([imdb](http://www.imdb.com/title/tt0064276))
+  * **Nightcrawler**
 
 ## Want to watch again
 
@@ -93,6 +95,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **The bridge over river Kwai**, by David Lean
   * **The road home** (1999) , by Zhang Yimou 
   * **Cosas que nunca te dije**, by Isabel Coixet
+  * **A los que aman**, by Isabel Coixet
   * **Solaris**, by Adrei Tarkovsky
   * **Stalker**, by Adrei Tarkovsky
   * **Noviembre**, by Achero Mañas
@@ -113,6 +116,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **The commitments** (1991), by Alan Parker ([imdb](http://www.imdb.com/title/tt0101605))
   * **Fight Club**, by David Fincher
   * **And justice for all**
+  * **Dead poets society**, by Peter Weir
 
 ## Not yet watched
 
@@ -169,10 +173,10 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Tokyo godfathers**, ([imdb](http://www.imdb.com/title/tt0388473))
   * **The deer hunter** (1978), by Michael Cimino ([imdb](http://www.imdb.com/title/tt0077416))
   * **Ladri di biciclette** (1948), by Vittorio de Sica
-  * **Nightcrawler**
   * **Underground**, by Emir Kusturica
   * **Black cat, white cat**, by Emir Kusturica
   * **Once**
   * **Brother**, by Takeshi Kitano
   * **Dolls**, by Takeshi Kitano
   * **Kids return**, by Takeshi Kitano
+  * **Only lovers left alive**, by Jim Jarmush
