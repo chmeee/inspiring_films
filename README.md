@@ -67,6 +67,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Easy rider** (1969), by Dennis Hopper ([imdb](http://www.imdb.com/title/tt0064276))
   * **Nightcrawler**
   * **La caja 507**
+  * **Locke** (2013), by Steven Knight ([imdb](http://www.imdb.com/title/tt2692904))
 
 ## Want to watch again
 
@@ -160,7 +161,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Following**, by Christopher Nolan
   * **Mean streets**, by Martin Scorsese
   * **Princess Mononoke**, by Hayao Miyazaki
-  * **Locke** (2013), by Steven Knight ([imdb](http://www.imdb.com/title/tt2692904))
   * **The secret of Kells** (2009), by Tomm Moore and Nora Twomey ([imdb](http://www.imdb.com/title/tt0485601))
   * **Map of the Sounds of Tokyo**, by Isabel Coixet
   * **Samsara** (2011)
