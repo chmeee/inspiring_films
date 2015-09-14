@@ -22,7 +22,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Extraterrestre** (2011), by Nacho Vigalondo ([imdb](http://www.imdb.com/title/tt1680133))
   * **Alice in den Städten** (1974), by Wim Wenders ([imdb](http://www.imdb.com/title/tt0069687), [ello](https://ello.co/chmeee/post/ifnxv_PFO1d3nBFBKKw55Q))
   * **Paris, Texas**, by Wim Wenders
-  * **Ghost Dog**, by Jim Jarmush
+  * **Ghost Dog**, by Jim Jarmusch
   * **Into the Void**, by Gaspar Noé
   * **Network** (1976), by Sydney Lumet
   * **The Yakuza** (1974), by Sydney Pollack
@@ -66,6 +66,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Das Leben der Anderen** (2006), by Florian Henckel von Donnersmarck ([imdb](http://www.imdb.com/title/tt0405094))
   * **Easy rider** (1969), by Dennis Hopper ([imdb](http://www.imdb.com/title/tt0064276))
   * **Nightcrawler**
+  * **La caja 507**
 
 ## Want to watch again
 
@@ -117,6 +118,10 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Fight Club**, by David Fincher
   * **And justice for all**
   * **Dead poets society**, by Peter Weir
+  * **Muertos de risa**, by Alex de la Iglesia
+  * **Los peores años de nuestra vida**
+  * **Los lunes al sol**
+  * **El verdugo**
 
 ## Not yet watched
 
@@ -179,4 +184,4 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Brother**, by Takeshi Kitano
   * **Dolls**, by Takeshi Kitano
   * **Kids return**, by Takeshi Kitano
-  * **Only lovers left alive**, by Jim Jarmush
+  * **Only lovers left alive**, by Jim Jarmusch
