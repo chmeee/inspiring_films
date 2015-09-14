@@ -122,6 +122,9 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Los peores años de nuestra vida**
   * **Los lunes al sol**
   * **El verdugo**
+  * **Manhattan**, by Woody Allen
+  * **Annie Hall**, by Woody Allen
+  * **Hannah and her sisters**, by Woody Allen
 
 ## Not yet watched
 
@@ -185,3 +188,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Dolls**, by Takeshi Kitano
   * **Kids return**, by Takeshi Kitano
   * **Only lovers left alive**, by Jim Jarmusch
+  * **Bananas**, by Woody Allen
+  * **Love and death**, by Woody Allen
+  * **Zelig**, by Woody Allen
