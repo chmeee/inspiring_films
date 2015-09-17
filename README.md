@@ -114,6 +114,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Donnie Darko** (2001)
   * **21 grams**
   * **The remains of the day**
+  * **Shadowlands** (1993), by Richard Attenborough ([imdb](http://www.imdb.com/title/tt0108101/))
   * **The machinist**
   * **The commitments** (1991), by Alan Parker ([imdb](http://www.imdb.com/title/tt0101605))
   * **Fight Club**, by David Fincher
@@ -126,6 +127,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Manhattan**, by Woody Allen
   * **Annie Hall**, by Woody Allen
   * **Hannah and her sisters**, by Woody Allen
+  * **Unforgiven**, by Clint Eastwood
 
 ## Not yet watched
 
@@ -165,6 +167,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Map of the Sounds of Tokyo**, by Isabel Coixet
   * **Samsara** (2011)
   * **Eternity and a day**, by Theodoros Angelopoulos
+  * **A scanner darkly**, by Richard Linklater
   * **Boyhood**, by Richard Linklater
   * **Rudderless** (2014), 
   * **Ten nights of dreams**
@@ -179,6 +182,8 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **5 centimeters per second**, by Makoto Shinkai
   * **The girl who leapt through time**, by Mamoru Hosoda
   * **Tokyo godfathers**, ([imdb](http://www.imdb.com/title/tt0388473))
+  * **The garden of words**
+  * **Wolf children**
   * **The deer hunter** (1978), by Michael Cimino ([imdb](http://www.imdb.com/title/tt0077416))
   * **Ladri di biciclette** (1948), by Vittorio de Sica
   * **Underground**, by Emir Kusturica
@@ -191,3 +196,4 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Bananas**, by Woody Allen
   * **Love and death**, by Woody Allen
   * **Zelig**, by Woody Allen
+  * **Ex-machina**, by Alex Garland
