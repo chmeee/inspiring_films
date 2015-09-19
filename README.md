@@ -68,6 +68,8 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Nightcrawler**
   * **La caja 507**
   * **Locke** (2013), by Steven Knight ([imdb](http://www.imdb.com/title/tt2692904))
+  * **Ex-machina**, by Alex Garland
+  * **Only lovers left alive**, by Jim Jarmusch
 
 ## Want to watch again
 
@@ -192,8 +194,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Brother**, by Takeshi Kitano
   * **Dolls**, by Takeshi Kitano
   * **Kids return**, by Takeshi Kitano
-  * **Only lovers left alive**, by Jim Jarmusch
   * **Bananas**, by Woody Allen
   * **Love and death**, by Woody Allen
   * **Zelig**, by Woody Allen
-  * **Ex-machina**, by Alex Garland
