@@ -70,6 +70,10 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Locke** (2013), by Steven Knight ([imdb](http://www.imdb.com/title/tt2692904))
   * **Ex-machina**, by Alex Garland
   * **Only lovers left alive**, by Jim Jarmusch
+  * **Twelve monkeys**, by Terry Gilliam
+  * **The big Lebwosky**, by the Coen brothers
+  * **The garden of words**
+  * **Rudderless** (2014), 
 
 ## Want to watch again
 
@@ -130,6 +134,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Annie Hall**, by Woody Allen
   * **Hannah and her sisters**, by Woody Allen
   * **Unforgiven**, by Clint Eastwood
+  * **The fisher king**, by Terry Gilliam
 
 ## Not yet watched
 
@@ -171,7 +176,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Eternity and a day**, by Theodoros Angelopoulos
   * **A scanner darkly**, by Richard Linklater
   * **Boyhood**, by Richard Linklater
-  * **Rudderless** (2014), 
   * **Ten nights of dreams**
   * **The night of the hunter** (1955)
   * **Persona** (1966)
@@ -184,7 +188,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **5 centimeters per second**, by Makoto Shinkai
   * **The girl who leapt through time**, by Mamoru Hosoda
   * **Tokyo godfathers**, ([imdb](http://www.imdb.com/title/tt0388473))
-  * **The garden of words**
   * **Wolf children**
   * **The deer hunter** (1978), by Michael Cimino ([imdb](http://www.imdb.com/title/tt0077416))
   * **Ladri di biciclette** (1948), by Vittorio de Sica
