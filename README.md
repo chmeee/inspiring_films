@@ -25,7 +25,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Ghost Dog**, by Jim Jarmusch
   * **Into the Void**, by Gaspar Noé
   * **Network** (1976), by Sydney Lumet
-  * **The Yakuza** (1974), by Sydney Pollack
+  * **The Yakuza** (1974), by Sydney Pollack ([article](http://www.cinephiliabeyond.org/sydney-pollacks-the-yakuza-the-merging-of-two-worlds-in-a-timeless-gangster-classic/))
   * **Pi**, by Darren Aranofsky
   * **The Fountain**, by Darren Aranofsky
   * **Citizen Kane**, by Orson Wells
@@ -73,7 +73,9 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Twelve monkeys**, by Terry Gilliam
   * **The big Lebwosky**, by the Coen brothers
   * **The garden of words**
+  * **The girl who leapt through time**, by Mamoru Hosoda
   * **Rudderless** (2014), 
+  * **Los amantes del círculo polar**, by Julio Medem
 
 ## Want to watch again
 
@@ -89,7 +91,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **The African Queen**, 
   * **Cinema Paradiso** (1988), by Giuseppe Tornatore
   * **Ça commence aujourd'hui** (1999), by Bertrand Tavernier ([imdb](http://www.imdb.com/title/tt0186730))
-  * **Los amantes del círculo polar**, by Julio Medem
   * **Tierra**, by Julio Medem
   * **Caótica Ana**, by Julio Medem
   * **Mi hermano del alma**, by Mariano Barroso
@@ -135,6 +136,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Hannah and her sisters**, by Woody Allen
   * **Unforgiven**, by Clint Eastwood
   * **The fisher king**, by Terry Gilliam
+  * **Chinatown**, by Roman Polanski
 
 ## Not yet watched
 
@@ -186,7 +188,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **The iron giant**
   * **Grave of the fireflies**
   * **5 centimeters per second**, by Makoto Shinkai
-  * **The girl who leapt through time**, by Mamoru Hosoda
   * **Tokyo godfathers**, ([imdb](http://www.imdb.com/title/tt0388473))
   * **Wolf children**
   * **The deer hunter** (1978), by Michael Cimino ([imdb](http://www.imdb.com/title/tt0077416))
@@ -200,3 +201,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Bananas**, by Woody Allen
   * **Love and death**, by Woody Allen
   * **Zelig**, by Woody Allen
+  * **A city of sadness**, by Hsiao-hsien Hou ([imdb](http://www.imdb.com/title/tt0096908/))
+  * **La ardilla roja**, by Julio Medem
+  * **Sleep dealer**, by Alex Rivera
