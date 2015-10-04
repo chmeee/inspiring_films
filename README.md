@@ -137,6 +137,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Unforgiven**, by Clint Eastwood
   * **The fisher king**, by Terry Gilliam
   * **Chinatown**, by Roman Polanski
+  * **Separate tables** (1958), by Delbert Mann ([imdb](http://www.imdb.com/title/tt0052182))
 
 ## Not yet watched
 
@@ -204,3 +205,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **A city of sadness**, by Hsiao-hsien Hou ([imdb](http://www.imdb.com/title/tt0096908/))
   * **La ardilla roja**, by Julio Medem
   * **Sleep dealer**, by Alex Rivera
+  * **Camino**
+  * **The revenant**
+  * **Gran Torino**, by Clint Eastwood
