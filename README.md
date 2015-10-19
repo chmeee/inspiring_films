@@ -77,6 +77,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Rudderless** (2014), 
   * **Los amantes del círculo polar**, by Julio Medem
   * **Sleep dealer**, by Alex Rivera
+  * **High fidelity**
 
 ## Want to watch again
 
@@ -116,7 +117,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Nothing**, by Vincenzo Natali
   * **Life Acquatic**, by Wes Anderson
   * **Lost in translation**, by Sofia Coppola
-  * **High fidelity**
   * **12 angry men** (1957)
   * **Ciudade de Deus** (2002), by Fernando Merielles and Katia Lund ([imdb](http://www.imdb.com/title/tt0317248))
   * **Donnie Darko** (2001)
