@@ -76,6 +76,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **The girl who leapt through time**, by Mamoru Hosoda
   * **Rudderless** (2014), 
   * **Los amantes del círculo polar**, by Julio Medem
+  * **Sleep dealer**, by Alex Rivera
 
 ## Want to watch again
 
@@ -204,7 +205,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Zelig**, by Woody Allen
   * **A city of sadness**, by Hsiao-hsien Hou ([imdb](http://www.imdb.com/title/tt0096908/))
   * **La ardilla roja**, by Julio Medem
-  * **Sleep dealer**, by Alex Rivera
   * **Camino**
   * **The revenant**
   * **Gran Torino**, by Clint Eastwood
