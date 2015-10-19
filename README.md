@@ -78,6 +78,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Los amantes del círculo polar**, by Julio Medem
   * **Sleep dealer**, by Alex Rivera
   * **High fidelity**
+  * **Rashomon** (1950), by Akira Kurosawa ([imdb](http://www.imdb.com/title/tt0050613))
 
 ## Want to watch again
 
@@ -151,7 +152,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Ikiru** (1952), by Akira Kurosawa ([imdb](http://www.imdb.com/title/tt0044741))
   * **Dersu Uzala** (1975), by Akira Kurosawa ([imdb](http://www.imdb.com/title/tt0071411))
   * **Throne of blood** (1957), by Akira Kurosawa ([imdb](http://www.imdb.com/title/tt0050613))
-  * **Rashomon** (1950), by Akira Kurosawa ([imdb](http://www.imdb.com/title/tt0050613))
   * **Dreams** (1990), by Akira Kurosawa
   * **Ran**, by Akira Kurosawa
   * **Red beard**, by Akira Kurosawa
