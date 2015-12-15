@@ -79,6 +79,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Sleep dealer**, by Alex Rivera
   * **High fidelity**
   * **Rashomon** (1950), by Akira Kurosawa ([imdb](http://www.imdb.com/title/tt0050613))
+  * **Jodorowsky's Dune**, ([imdb](http://www.imdb.com/title/tt1935156))
 
 ## Want to watch again
 
