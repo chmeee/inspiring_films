@@ -209,3 +209,4 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Camino**
   * **The revenant**
   * **Gran Torino**, by Clint Eastwood
+  * **Fata/Morgana**, by Vicente Aranda ([imdb](http://www.imdb.com/title/tt0059172/))
