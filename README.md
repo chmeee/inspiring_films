@@ -79,12 +79,13 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Sleep dealer**, by Alex Rivera
   * **High fidelity**
   * **Rashomon** (1950), by Akira Kurosawa ([imdb](http://www.imdb.com/title/tt0050613))
+  * **Riding alone for thousand of miles**, by Zhang Yimou
+  * **Astronautas**, by Santi Amodeo
   * **Jodorowsky's Dune**, ([imdb](http://www.imdb.com/title/tt1935156))
 
 ## Want to watch again
 
   * **Historias del Kronen** (1995), by Montxo Armendariz ([imdb](http://www.imdb.com/title/tt0110036))
-  * **Astronautas**, by Santi Amodeo
   * **Until the end of the world**, by Wim Wenders
   * **Hidden agenda**, by Ken Loach
   * **Sleuth** (1972), by Joseph L. Mankiewicz ([imdb](http://www.imdb.com/title/tt0069281))
@@ -146,7 +147,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
 
   * **Tokyo Story**,
   * **The Hidden fortress**, by Akira Kurosawa
-  * **Riding alone for thousand of miles**, by Zhang Yimou
   * **Japanese Story**, 
   * **Long day's journey to the night** (1962), by Sidney Lumet
   * **Vibrator** (2003), by Ryuichi Hiroki ([imdb](http://www.imdb.com/title/tt0379576))
