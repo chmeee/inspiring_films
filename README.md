@@ -210,3 +210,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **The revenant**
   * **Gran Torino**, by Clint Eastwood
   * **Fata/Morgana**, by Vicente Aranda ([imdb](http://www.imdb.com/title/tt0059172/))
+  * **Medium cool** (1965), by  Haskell Wexler ([imdb](http://www.imdb.com/title/tt0064652/))
+  * **Branded to kill** (1967), by Seijun Suzuki ([imdb](http://www.imdb.com/title/tt0061882))
+  * **Chimes at midnight** (1965), by Orson Wells
