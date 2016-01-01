@@ -1,8 +1,12 @@
 # Inspiring films
 
-This is the list of films that I find inspiring. It's still work in progress.
+This is the list of films that I find inspiring. It will always be work in progress.
 
-It includes films I haven't watched and want to do so, films I watched a long ago and I want to see them again and films thta I have already watched recently.
+It includes three sections:
+
+  * Films I have watched recently and I liked
+  * Films I want to watch again because I watched a long ago
+  * Films I have not watched yet but it looks like I'm going to like them
 
 Please, feel free to fork it and add your favorite and inspiring movies, too.
 
