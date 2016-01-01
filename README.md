@@ -213,3 +213,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Medium cool** (1965), by  Haskell Wexler ([imdb](http://www.imdb.com/title/tt0064652/))
   * **Branded to kill** (1967), by Seijun Suzuki ([imdb](http://www.imdb.com/title/tt0061882))
   * **Chimes at midnight** (1965), by Orson Wells
+  * **Enemy** (2013), by Denis Villeneuve ([imdb](http://www.imdb.com/title/tt2316411))
+  * **Zodiac** (2007), by David Fincher ([imdb](http://www.imdb.com/title/tt0443706))
+  * **Prisoners** (2013), by Denis Villeneuve ([imdb](http://www.imdb.com/title/tt1392214))
