@@ -88,6 +88,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Jodorowsky's Dune**, ([imdb](http://www.imdb.com/title/tt1935156))
   * **Zodiac** (2007), by David Fincher ([imdb](http://www.imdb.com/title/tt0443706))
   * **About time**
+  * **Brick** (2005),
 
 ## Want to watch again
 
@@ -222,5 +223,5 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Enemy** (2013), by Denis Villeneuve ([imdb](http://www.imdb.com/title/tt2316411))
   * **Prisoners** (2013), by Denis Villeneuve ([imdb](http://www.imdb.com/title/tt1392214))
   * **Anomalisa** (2015), ([imdb](http://www.imdb.com/title/tt2401878))
-  * **Brick** (2005),
   * **El corredor nocturno** (2009), by Gerardo Guerrero ([imdb](http://www.imdb.com/title/tt1289388))
+  * **Edge of tomorrow** (2014), by Doug Liman ([imdb](http://www.imdb.com/title/tt1631867))
