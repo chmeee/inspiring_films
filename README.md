@@ -225,3 +225,4 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Anomalisa** (2015), ([imdb](http://www.imdb.com/title/tt2401878))
   * **El corredor nocturno** (2009), by Gerardo Guerrero ([imdb](http://www.imdb.com/title/tt1289388))
   * **Edge of tomorrow** (2014), by Doug Liman ([imdb](http://www.imdb.com/title/tt1631867))
+  * **Embers**
