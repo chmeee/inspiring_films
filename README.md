@@ -95,6 +95,9 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Pulp Fiction**, by Quentin Tarantino
   * **Kill Bill**, by Quentin Tarantino
   * **Death proof**, by Quentin Tarantino
+  * **Inglorious basterds**, by Quentin Tarantino
+  * **Django unchained**,  by Quentin Tarantino
+  * **Drive**, by Nicolas Winding Refn 
 
 
 ## Want to watch again
@@ -233,6 +236,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Embers**
   * **Amour**. by Michael Haneke
   * **Jackie Brown**, by Quentin Tarantino
-  * **Inglorious basterds**, by Quentin Tarantino
-  * **Django unchained**,  by Quentin Tarantino
   * **The hateful eight**, by Quentin Tarantino
+  * **Only God forgives**, by Nicolas Winding Refn ([imdb](http://www.imdb.com/title/tt1602613))
+  * **Valhala rising**, by Nicolas Winding Refn
