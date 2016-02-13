@@ -91,6 +91,11 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Brick** (2005),
   * **Enemy** (2013), by Denis Villeneuve ([imdb](http://www.imdb.com/title/tt2316411))
   * **Prisoners** (2013), by Denis Villeneuve ([imdb](http://www.imdb.com/title/tt1392214))
+  * **Reservoir dogs**, by Quentin Tarantino
+  * **Pulp Fiction**, by Quentin Tarantino
+  * **Kill Bill**, by Quentin Tarantino
+  * **Death proof**, by Quentin Tarantino
+
 
 ## Want to watch again
 
@@ -227,3 +232,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Edge of tomorrow** (2014), by Doug Liman ([imdb](http://www.imdb.com/title/tt1631867))
   * **Embers**
   * **Amour**. by Michael Haneke
+  * **Jackie Brown**, by Quentin Tarantino
+  * **Inglorious basterds**, by Quentin Tarantino
+  * **Django unchained**,  by Quentin Tarantino
+  * **The hateful eight**, by Quentin Tarantino
