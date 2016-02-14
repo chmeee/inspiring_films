@@ -98,6 +98,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Inglorious basterds**, by Quentin Tarantino
   * **Django unchained**,  by Quentin Tarantino
   * **Drive**, by Nicolas Winding Refn 
+  * **Vibrator** (2003), by Ryuichi Hiroki ([imdb](http://www.imdb.com/title/tt0379576))
 
 
 ## Want to watch again
@@ -166,7 +167,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **The Hidden fortress**, by Akira Kurosawa
   * **Japanese Story**, 
   * **Long day's journey to the night** (1962), by Sidney Lumet
-  * **Vibrator** (2003), by Ryuichi Hiroki ([imdb](http://www.imdb.com/title/tt0379576))
   * **Ikiru** (1952), by Akira Kurosawa ([imdb](http://www.imdb.com/title/tt0044741))
   * **Dersu Uzala** (1975), by Akira Kurosawa ([imdb](http://www.imdb.com/title/tt0071411))
   * **Throne of blood** (1957), by Akira Kurosawa ([imdb](http://www.imdb.com/title/tt0050613))
@@ -238,4 +238,4 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Jackie Brown**, by Quentin Tarantino
   * **The hateful eight**, by Quentin Tarantino
   * **Only God forgives**, by Nicolas Winding Refn ([imdb](http://www.imdb.com/title/tt1602613))
-  * **Valhala rising**, by Nicolas Winding Refn
+  * **Valhalla rising**, by Nicolas Winding Refn
