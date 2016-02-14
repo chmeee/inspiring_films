@@ -239,3 +239,5 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **The hateful eight**, by Quentin Tarantino
   * **Only God forgives**, by Nicolas Winding Refn ([imdb](http://www.imdb.com/title/tt1602613))
   * **Valhalla rising**, by Nicolas Winding Refn
+  * **Time after time**
+  * **Time bandits**
