@@ -99,6 +99,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Django unchained**,  by Quentin Tarantino
   * **Drive**, by Nicolas Winding Refn 
   * **Vibrator** (2003), by Ryuichi Hiroki ([imdb](http://www.imdb.com/title/tt0379576))
+  * **Only God forgives**, by Nicolas Winding Refn ([imdb](http://www.imdb.com/title/tt1602613))
 
 
 ## Want to watch again
@@ -237,7 +238,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Amour**. by Michael Haneke
   * **Jackie Brown**, by Quentin Tarantino
   * **The hateful eight**, by Quentin Tarantino
-  * **Only God forgives**, by Nicolas Winding Refn ([imdb](http://www.imdb.com/title/tt1602613))
   * **Valhalla rising**, by Nicolas Winding Refn
   * **Time after time**
   * **Time bandits**
