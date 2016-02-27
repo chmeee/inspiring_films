@@ -100,6 +100,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Drive**, by Nicolas Winding Refn 
   * **Vibrator** (2003), by Ryuichi Hiroki ([imdb](http://www.imdb.com/title/tt0379576))
   * **Only God forgives**, by Nicolas Winding Refn ([imdb](http://www.imdb.com/title/tt1602613))
+  * **Elysium**, by Neill Bloomkamp
 
 
 ## Want to watch again
