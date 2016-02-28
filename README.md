@@ -102,6 +102,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Only God forgives**, by Nicolas Winding Refn ([imdb](http://www.imdb.com/title/tt1602613))
   * **Elysium**, by Neill Bloomkamp
   * **Oblivion** (2013), by Joseph Kosinski ([imdb](http://www.imdb.com/title/tt1483013))
+  * **Creed** (2015), by Ryan Coogler ([imdb](http://www.imdb.com/title/tt3076658))
 
 
 ## Want to watch again
