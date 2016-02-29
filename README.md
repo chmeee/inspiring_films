@@ -164,6 +164,8 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **The fisher king**, by Terry Gilliam
   * **Chinatown**, by Roman Polanski
   * **Separate tables** (1958), by Delbert Mann ([imdb](http://www.imdb.com/title/tt0052182))
+  * **Saturn 3**
+  * **Outlander**
 
 ## Not yet watched
 
