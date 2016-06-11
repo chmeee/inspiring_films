@@ -166,6 +166,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Separate tables** (1958), by Delbert Mann ([imdb](http://www.imdb.com/title/tt0052182))
   * **Saturn 3**
   * **Outlander**
+  * **Smoke**
 
 ## Not yet watched
 
