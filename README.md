@@ -87,7 +87,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Astronautas**, by Santi Amodeo
   * **Jodorowsky's Dune**, ([imdb](http://www.imdb.com/title/tt1935156))
   * **Zodiac** (2007), by David Fincher ([imdb](http://www.imdb.com/title/tt0443706))
-  * **About time**
+  * **About time** (2013), by Richard Curtis ([imdb](http://www.imdb.com/title/tt2194499/))
   * **Brick** (2005),
   * **Enemy** (2013), by Denis Villeneuve ([imdb](http://www.imdb.com/title/tt2316411))
   * **Prisoners** (2013), by Denis Villeneuve ([imdb](http://www.imdb.com/title/tt1392214))
@@ -103,6 +103,9 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Elysium**, by Neill Bloomkamp
   * **Oblivion** (2013), by Joseph Kosinski ([imdb](http://www.imdb.com/title/tt1483013))
   * **Creed** (2015), by Ryan Coogler ([imdb](http://www.imdb.com/title/tt3076658))
+  * **Wolf children** (2012), by Mamoru Hosoda ([imdb](http://www.imdb.com/title/tt2140203/))
+  * **Valhalla rising** (2009), by Nicolas Winding Refn ([imdb](http://www.imdb.com/title/tt0862467/))
+  * **Edge of tomorrow** (2014), by Doug Liman ([imdb](http://www.imdb.com/title/tt1631867))
 
 
 ## Want to watch again
@@ -216,7 +219,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Grave of the fireflies**
   * **5 centimeters per second**, by Makoto Shinkai
   * **Tokyo godfathers**, ([imdb](http://www.imdb.com/title/tt0388473))
-  * **Wolf children**
   * **The deer hunter** (1978), by Michael Cimino ([imdb](http://www.imdb.com/title/tt0077416))
   * **Ladri di biciclette** (1948), by Vittorio de Sica
   * **Underground**, by Emir Kusturica
@@ -239,16 +241,14 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Chimes at midnight** (1965), by Orson Wells
   * **Anomalisa** (2015), ([imdb](http://www.imdb.com/title/tt2401878))
   * **El corredor nocturno** (2009), by Gerardo Guerrero ([imdb](http://www.imdb.com/title/tt1289388))
-  * **Edge of tomorrow** (2014), by Doug Liman ([imdb](http://www.imdb.com/title/tt1631867))
   * **Embers**
   * **Amour**. by Michael Haneke
   * **Jackie Brown**, by Quentin Tarantino
   * **The hateful eight**, by Quentin Tarantino
-  * **Valhalla rising**, by Nicolas Winding Refn
   * **Time after time**
   * **Time bandits**
   * **Possession**
   * **Point blank** (1967), by John Boorman ([imdb](http://www.imdb.com/title/tt0062138/), [article](http://www.cinephiliabeyond.org/point-blank-john-boormans-thriller-classic-elevated-by-stylish-european-touch/))
-  * **The conversation ** by Coppola 
+  * **The conversation** by Coppola 
   * **The room**
   * **Green room**
