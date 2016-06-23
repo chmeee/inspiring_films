@@ -106,6 +106,8 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Wolf children** (2012), by Mamoru Hosoda ([imdb](http://www.imdb.com/title/tt2140203/))
   * **Valhalla rising** (2009), by Nicolas Winding Refn ([imdb](http://www.imdb.com/title/tt0862467/))
   * **Edge of tomorrow** (2014), by Doug Liman ([imdb](http://www.imdb.com/title/tt1631867))
+  * **The hateful eight**, by Quentin Tarantino
+  * **Sicario**, by Denis Villeneuve 
 
 
 ## Want to watch again
@@ -244,7 +246,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Embers**
   * **Amour**. by Michael Haneke
   * **Jackie Brown**, by Quentin Tarantino
-  * **The hateful eight**, by Quentin Tarantino
   * **Time after time**
   * **Time bandits**
   * **Possession**
