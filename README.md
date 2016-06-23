@@ -253,3 +253,4 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **The conversation** by Coppola 
   * **The room**
   * **Green room**
+  * **Somewhere**, by Sofia Coppola
