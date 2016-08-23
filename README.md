@@ -258,3 +258,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **El nuevo nuevo testamento**, 
   * **Gentlemen broncos**
   * **Mia madre** (2015), by Nanni Moretti ([imdb](http://www.imdb.com/title/tt3013610))
+  * **Arrival**
+  * **Swiss man army**
+  * **Brand new testament**
