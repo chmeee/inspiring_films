@@ -108,6 +108,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Edge of tomorrow** (2014), by Doug Liman ([imdb](http://www.imdb.com/title/tt1631867))
   * **The hateful eight**, by Quentin Tarantino
   * **Sicario**, by Denis Villeneuve 
+  * **Shame** (2011), by Steve McQueen ([imdb](http://www.imdb.com/title/tt1723811/))
 
 
 ## Want to watch again
@@ -254,3 +255,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **The room**
   * **Green room**
   * **Somewhere**, by Sofia Coppola
+  * **El nuevo nuevo testamento**, 
+  * **Gentlemen broncos**
+  * **Mia madre** (2015), by Nanni Moretti ([imdb](http://www.imdb.com/title/tt3013610))
