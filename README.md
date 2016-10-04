@@ -262,3 +262,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Arrival**
   * **Swiss man army**
   * **Brand new testament**
+  * **Vanishing Waves** by Kristina Buozyte
+  * **Evolution** by Lucile Hadzihalilovic
+  * **H.** by Rania Attieh and Daniel García
+  * **The Love Witch** by Anna Biller
