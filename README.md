@@ -266,3 +266,4 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Evolution** by Lucile Hadzihalilovic
   * **H.** by Rania Attieh and Daniel García
   * **The Love Witch** by Anna Biller
+  * **Colossal**, by Nacho Vigalondo
