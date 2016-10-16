@@ -269,3 +269,5 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Colossal**, by Nacho Vigalondo
   * **Conducta**
   * **Nuestra pequeña hermana**
+  * **La clase**
+  * **En la casa**
