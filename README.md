@@ -267,3 +267,5 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **H.** by Rania Attieh and Daniel García
   * **The Love Witch** by Anna Biller
   * **Colossal**, by Nacho Vigalondo
+  * **Conducta**
+  * **Nuestra pequeña hermana**
