@@ -272,3 +272,4 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Nuestra pequeña hermana**
   * **La clase**
   * **En la casa**
+  * **Captain Fantastic** (2016), by Matt Ross ([imdb](http://www.imdb.com/title/tt3553976))
