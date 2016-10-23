@@ -111,6 +111,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Shame** (2011), by Steve McQueen ([imdb](http://www.imdb.com/title/tt1723811/))
   * **Somewhere** (2010), by Sofia Coppola ([imdb](http://www.imdb.com/title/tt1421051))
   * **Don Jon** (2013), by Joseph Gordon-Levitt ([imdb](http://www.imdb.com/title/tt2229499))
+  * **Captain Fantastic** (2016), by Matt Ross ([imdb](http://www.imdb.com/title/tt3553976))
 
 
 ## Want to watch again
@@ -272,4 +273,3 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Nuestra pequeña hermana**
   * **La clase**
   * **En la casa**
-  * **Captain Fantastic** (2016), by Matt Ross ([imdb](http://www.imdb.com/title/tt3553976))
