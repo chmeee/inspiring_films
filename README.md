@@ -110,6 +110,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Sicario**, by Denis Villeneuve 
   * **Shame** (2011), by Steve McQueen ([imdb](http://www.imdb.com/title/tt1723811/))
   * **Somewhere** (2010), by Sofia Coppola ([imdb](http://www.imdb.com/title/tt1421051))
+  * **Don Jon** (2013), by Joseph Gordon-Levitt ([imdb](http://www.imdb.com/title/tt2229499))
 
 
 ## Want to watch again
