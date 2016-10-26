@@ -273,3 +273,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Nuestra pequeña hermana**
   * **La clase**
   * **En la casa**
+  * **Moonlight** (2016), by Barry Jenkins ([imdb](http://www.imdb.com/title/tt4975722))
+  * **Manchester by the sea** (2016), by Kenneth Lonergan ([imdb](http://www.imdb.com/title/tt4034228))
+  * **La La Land** (2016), by Damien Chazelle, ([imdb](http://www.imdb.com/title/tt3783958/))
+  * **For the love of Spock**, by Adam Nimoy
