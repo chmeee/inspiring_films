@@ -1,6 +1,6 @@
 # Inspiring films
 
-    “That’s what the best of cinema should do. Inspire thinking.” — [@WBDass](https://twitter.com/WBDass) on [The Fountain](https://filmschoolrejects.com/12-perfect-shots-a-decade-with-darren-aronofskys-visual-masterpiece-the-fountain-5f088b4907b2#.4h9im3txe).
+**“That’s what the best of cinema should do. Inspire thinking.”** — [@WBDass](https://twitter.com/WBDass) on [The Fountain](https://filmschoolrejects.com/12-perfect-shots-a-decade-with-darren-aronofskys-visual-masterpiece-the-fountain-5f088b4907b2#.4h9im3txe).
 
 This is the list of films that I find inspiring. It will always be work in progress.
 
