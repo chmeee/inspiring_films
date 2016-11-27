@@ -203,7 +203,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **The science of sleep** (2006), by Michel Gondry ([imdb](http://www.imdb.com/title/tt0354899))
   * **L'écume des jours** (2013), by Michel Gondry ([imdb](http://www.imdb.com/title/tt2027140))
   * **Naked lunch**, by David Cronenberg
-  * **The Go Master** (2006), 
+  * **The Go Master** (2006), by Zhuangzhuang Tian ([imdb](http://www.imdb.com/title/tt0439885))
   * **L'uomo delle stelle** (1995), by Giuseppe Tornatore ([imdb](http://www.imdb.com/title/tt0114808))
   * **Timbuktu**
   * **Moonrise kingdom**, by Wes Anderson
@@ -234,9 +234,9 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Underground**, by Emir Kusturica
   * **Black cat, white cat**, by Emir Kusturica
   * **Once**
-  * **Brother**, by Takeshi Kitano
-  * **Dolls**, by Takeshi Kitano
   * **Kids return**, by Takeshi Kitano
+  * **Dolls**, by Takeshi Kitano
+  * **Brother**, by Takeshi Kitano
   * **Bananas**, by Woody Allen
   * **Love and death**, by Woody Allen
   * **Zelig**, by Woody Allen
@@ -264,8 +264,8 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **El nuevo nuevo testamento**, 
   * **Gentlemen broncos**
   * **Mia madre** (2015), by Nanni Moretti ([imdb](http://www.imdb.com/title/tt3013610))
-  * **Arrival**
-  * **Swiss man army**
+  * **Arrival** (2016), by Denis Villeneuve ([imdb](http://www.imdb.com/title/tt2543164))
+  * **Swiss army man** (2016), by Dan Kwan and Daniel Scheinert ([imdb](http://www.imdb.com/title/tt4034354))
   * **Brand new testament**
   * **Vanishing Waves** by Kristina Buozyte
   * **Evolution** by Lucile Hadzihalilovic
@@ -274,9 +274,10 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Colossal**, by Nacho Vigalondo
   * **Conducta**
   * **Nuestra pequeña hermana**
-  * **La clase**
-  * **En la casa**
+  * **Entre le murs** (2008), by Laurent Cantet ([imdb](http://www.imdb.com/title/tt1068646))
+  * **Dans la maison** (2012), by François Ozon ([imdb](http://www.imdb.com/title/tt1964624))
   * **Moonlight** (2016), by Barry Jenkins ([imdb](http://www.imdb.com/title/tt4975722))
   * **Manchester by the sea** (2016), by Kenneth Lonergan ([imdb](http://www.imdb.com/title/tt4034228))
   * **La La Land** (2016), by Damien Chazelle, ([imdb](http://www.imdb.com/title/tt3783958/))
   * **For the love of Spock**, by Adam Nimoy
+  * **Paterson** (2016), by Jim Jarmusch ([imdb](http://www.imdb.com/title/tt5247022))
