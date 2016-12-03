@@ -115,7 +115,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Don Jon** (2013), by Joseph Gordon-Levitt ([imdb](http://www.imdb.com/title/tt2229499))
   * **Captain Fantastic** (2016), by Matt Ross ([imdb](http://www.imdb.com/title/tt3553976))
   * **El incidente** (2014), by Isaac Ezban ([imdb](http://www.imdb.com/title/tt3528756))
-
+  * **Arrival** (2016), by Denis Villeneuve ([imdb](http://www.imdb.com/title/tt2543164))
 
 ## Want to watch again
 
@@ -264,7 +264,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **El nuevo nuevo testamento**, 
   * **Gentlemen broncos**
   * **Mia madre** (2015), by Nanni Moretti ([imdb](http://www.imdb.com/title/tt3013610))
-  * **Arrival** (2016), by Denis Villeneuve ([imdb](http://www.imdb.com/title/tt2543164))
   * **Swiss army man** (2016), by Dan Kwan and Daniel Scheinert ([imdb](http://www.imdb.com/title/tt4034354))
   * **Brand new testament**
   * **Vanishing Waves** by Kristina Buozyte
