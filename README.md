@@ -116,6 +116,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Captain Fantastic** (2016), by Matt Ross ([imdb](http://www.imdb.com/title/tt3553976))
   * **El incidente** (2014), by Isaac Ezban ([imdb](http://www.imdb.com/title/tt3528756))
   * **Arrival** (2016), by Denis Villeneuve ([imdb](http://www.imdb.com/title/tt2543164))
+  * **Blood father** (2016)
 
 ## Want to watch again
 
