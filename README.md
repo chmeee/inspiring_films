@@ -118,6 +118,8 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Arrival** (2016), by Denis Villeneuve ([imdb](http://www.imdb.com/title/tt2543164))
   * **Blood father** (2016)
   * **The handmaiden** (2016), by Chan-wook Park ([imdb](http://www.imdb.com/title/tt4016934))
+  * **After the storm** (2016)
+  * **Nocturnal animals** (2016), by Tom Ford
 
 ## Want to watch again
 
