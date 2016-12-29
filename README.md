@@ -186,6 +186,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **High Art** ([youtube](https://www.youtube.com/watch?v=_w0YeNipOsA))
   * **Old boy**, by Chan-wook Park
   * **Fried Green Tomatoes**
+  * **My own private Idaho**, by Gus Van Sant
 
 ## Not yet watched
 
