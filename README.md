@@ -284,9 +284,12 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Dans la maison** (2012), by François Ozon ([imdb](http://www.imdb.com/title/tt1964624))
   * **Moonlight** (2016), by Barry Jenkins ([imdb](http://www.imdb.com/title/tt4975722))
   * **Manchester by the sea** (2016), by Kenneth Lonergan ([imdb](http://www.imdb.com/title/tt4034228))
-  * **La La Land** (2016), by Damien Chazelle, ([imdb](http://www.imdb.com/title/tt3783958/))
+  * **Whiplash**, by Damien Chazelle
+  * **La La Land** (2016), by Damien Chazelle ([imdb](http://www.imdb.com/title/tt3783958/))
   * **For the love of Spock**, by Adam Nimoy
   * **Paterson** (2016), by Jim Jarmusch ([imdb](http://www.imdb.com/title/tt5247022))
   * **Stoker** (2013), by Chan-wook Park ([imdb](http://www.imdb.com/title/tt1682180))
   * **Lady Vengeance** (2005), by Chan-wook Park ([imdb](http://www.imdb.com/title/tt0451094))
   * **Sympathy for Mr. Vengeance** (2002), by Chan-wook Park ([imdb](http://www.imdb.com/title/tt0310775))
+  * **Tarde para la ira**
+  * **Train to Busan**
