@@ -120,6 +120,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **The handmaiden** (2016), by Chan-wook Park ([imdb](http://www.imdb.com/title/tt4016934))
   * **After the storm** (2016)
   * **Nocturnal animals** (2016), by Tom Ford
+  * **Paterson** (2016), by Jim Jarmusch ([imdb](http://www.imdb.com/title/tt5247022))
 
 ## Want to watch again
 
@@ -187,6 +188,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Old boy**, by Chan-wook Park
   * **Fried Green Tomatoes**
   * **My own private Idaho**, by Gus Van Sant
+  * **Nueve reinas**
 
 ## Not yet watched
 
@@ -287,7 +289,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Whiplash**, by Damien Chazelle
   * **La La Land** (2016), by Damien Chazelle ([imdb](http://www.imdb.com/title/tt3783958/))
   * **For the love of Spock**, by Adam Nimoy
-  * **Paterson** (2016), by Jim Jarmusch ([imdb](http://www.imdb.com/title/tt5247022))
   * **Stoker** (2013), by Chan-wook Park ([imdb](http://www.imdb.com/title/tt1682180))
   * **Lady Vengeance** (2005), by Chan-wook Park ([imdb](http://www.imdb.com/title/tt0451094))
   * **Sympathy for Mr. Vengeance** (2002), by Chan-wook Park ([imdb](http://www.imdb.com/title/tt0310775))
