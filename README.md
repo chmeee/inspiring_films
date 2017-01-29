@@ -121,6 +121,9 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **After the storm** (2016)
   * **Nocturnal animals** (2016), by Tom Ford
   * **Paterson** (2016), by Jim Jarmusch ([imdb](http://www.imdb.com/title/tt5247022))
+  * **True grit**, by ([imdb]())
+  * **Nueve reinas**
+  * **The Warriors**, by Walter Hill ([imdb]())
 
 ## Want to watch again
 
@@ -188,7 +191,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Old boy**, by Chan-wook Park
   * **Fried Green Tomatoes**
   * **My own private Idaho**, by Gus Van Sant
-  * **Nueve reinas**
 
 ## Not yet watched
 
@@ -294,3 +296,9 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Sympathy for Mr. Vengeance** (2002), by Chan-wook Park ([imdb](http://www.imdb.com/title/tt0310775))
   * **Tarde para la ira**
   * **Train to Busan**
+  * **Hard eight** (1996), by Paul Thomas Anderson ([imdb](http://www.imdb.com/title/tt0119256/))
+  * **There will be bloeed**, by Paul Thomas Anderson
+  * **The master**, by Paul Thomas Anderson
+  * **Inherent Vice**, by Paul Thomas Anderson
+  * 
+
