@@ -300,5 +300,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **There will be bloeed**, by Paul Thomas Anderson
   * **The master**, by Paul Thomas Anderson
   * **Inherent Vice**, by Paul Thomas Anderson
-  * 
+  * **The lobster**
+  * **Safety not guaranteed**
 
