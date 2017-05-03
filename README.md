@@ -303,3 +303,4 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **The lobster**
   * **Safety not guaranteed**
   * **Free fires**
+  * **Permission** (2017), by Brian Crano ([imdb](http://www.imdb.com/title/tt5390066))
