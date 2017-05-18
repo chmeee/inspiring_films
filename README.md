@@ -304,3 +304,4 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Safety not guaranteed**
   * **Free fires**
   * **Permission** (2017), by Brian Crano ([imdb](http://www.imdb.com/title/tt5390066))
+  * **The life of David Gale** (2003), by Alan Parker ([imdb](http://www.imdb.com/title/tt0289992/))
