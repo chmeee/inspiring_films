@@ -312,3 +312,4 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Mystery train**
   * **Monday morning** (2012), by Nat Christian ([imdb](http://www.imdb.com/title/tt1605800))
   * **Lundi matin (Monday morning)** (2002), by Otar Iosseliani ([imdb](http://www.imdb.com/title/tt0284277))
+  * **Yi Yi** (2000), by Edward Yang ([imdb](http://www.imdb.com/title/tt0244316/))
