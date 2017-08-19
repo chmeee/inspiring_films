@@ -124,6 +124,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **True grit**, by ([imdb]())
   * **Nueve reinas**
   * **The Warriors**, by Walter Hill ([imdb]())
+  * **Chungking Express** (1994), by Kar-Wai Wong ([imdb](http://www.imdb.com/title/tt0109424))
 
 ## Want to watch again
 
@@ -307,7 +308,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **The life of David Gale** (2003), by Alan Parker ([imdb](http://www.imdb.com/title/tt0289992/))
   * **Birdy** (), by Alan Parker ([imdb]())
   * *The gift* (2015), by Joel Edgerton ([imdb](http://www.imdb.com/title/tt4178092))
-  * **Chungking Express** (1994),
   * **Limits of control**
   * **Mystery train**
   * **Monday morning** (2012), by Nat Christian ([imdb](http://www.imdb.com/title/tt1605800))
