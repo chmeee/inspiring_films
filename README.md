@@ -316,3 +316,4 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Yi Yi** (2000), by Edward Yang ([imdb](http://www.imdb.com/title/tt0244316/))
   * **Ida**
   * **Frequencies, aka OXV The manual**
+  * **Out of the past** (1947), by Jacques Tourneur ([imdb](http://www.imdb.com/title/tt0039689))
