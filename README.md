@@ -126,6 +126,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **The Warriors**, by Walter Hill ([imdb]())
   * **Chungking Express** (1994), by Kar-Wai Wong ([imdb](http://www.imdb.com/title/tt0109424))
   * **Alphaville** (1965), by Jean-Luc Godard ([imdb](http://www.imdb.com/title/tt0058898))
+  * **The limits of control** (2009), by Jim Jarmusch ([imdb](http://www.imdb.com/title/tt1135092))
 
 ## Want to watch again
 
@@ -309,8 +310,9 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **The life of David Gale** (2003), by Alan Parker ([imdb](http://www.imdb.com/title/tt0289992/))
   * **Birdy** (), by Alan Parker ([imdb]())
   * *The gift* (2015), by Joel Edgerton ([imdb](http://www.imdb.com/title/tt4178092))
-  * **Limits of control**
   * **Mystery train**
   * **Monday morning** (2012), by Nat Christian ([imdb](http://www.imdb.com/title/tt1605800))
   * **Lundi matin (Monday morning)** (2002), by Otar Iosseliani ([imdb](http://www.imdb.com/title/tt0284277))
   * **Yi Yi** (2000), by Edward Yang ([imdb](http://www.imdb.com/title/tt0244316/))
+  * **Ida**
+  * **Frequencies, aka OXV The manual**
