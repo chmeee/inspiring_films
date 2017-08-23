@@ -320,4 +320,5 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Down by law** (1986), by Jim Jarmusch ([imdb](http://www.imdb.com/title/tt0090967))
   * **Stranger than paradise** (1984), by Jim Jarmusch ([imdb](http://www.imdb.com/title/tt0088184))
   * **Dead man** (1995), by Jim Jarmusch ([imdb](http://www.imdb.com/title/tt0112817))
+  * **Broken flowers** (2005), by Jim Jarmusch ([imdb](http://www.imdb.com/title/tt0412019))
   * **The killing of a sacred deer**
