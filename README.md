@@ -322,3 +322,5 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Dead man** (1995), by Jim Jarmusch ([imdb](http://www.imdb.com/title/tt0112817))
   * **Broken flowers** (2005), by Jim Jarmusch ([imdb](http://www.imdb.com/title/tt0412019))
   * **The killing of a sacred deer**
+  * **Memories of murder** (2003)
+  * **Rescue Dawn** (2006), by Werner Herzog ([imdb](http://www.imdb.com/title/tt0462504))
