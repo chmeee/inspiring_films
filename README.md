@@ -194,6 +194,8 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Old boy**, by Chan-wook Park
   * **Fried Green Tomatoes**
   * **My own private Idaho**, by Gus Van Sant
+  * **The collector** (1958), by William Wyler ([imdb](http://www.imdb.com/title/tt0059043))
+  * **The big country**, by William Wyler ([imdb](http://www.imdb.com/title/tt0051411))
 
 ## Not yet watched
 
@@ -324,3 +326,4 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **The killing of a sacred deer**
   * **Memories of murder** (2003)
   * **Rescue Dawn** (2006), by Werner Herzog ([imdb](http://www.imdb.com/title/tt0462504))
+  * **The best years of our lives**, by William Wyler ([imdb](http://www.imdb.com/title/tt0036868))
