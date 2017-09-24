@@ -327,3 +327,4 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Memories of murder** (2003)
   * **Rescue Dawn** (2006), by Werner Herzog ([imdb](http://www.imdb.com/title/tt0462504))
   * **The best years of our lives**, by William Wyler ([imdb](http://www.imdb.com/title/tt0036868))
+  * **Walk with me** (2017), by Marc J. Francis and Max Pugh ([imdb](http://www.imdb.com/title/tt2331100))
