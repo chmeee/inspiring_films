@@ -127,6 +127,9 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Chungking Express** (1994), by Kar-Wai Wong ([imdb](http://www.imdb.com/title/tt0109424))
   * **Alphaville** (1965), by Jean-Luc Godard ([imdb](http://www.imdb.com/title/tt0058898))
   * **The limits of control** (2009), by Jim Jarmusch ([imdb](http://www.imdb.com/title/tt1135092))
+  * **Sabaibaru famiri** (2017), by Shinobu Yaguchi ([imdb](http://www.imdb.com/title/tt5890000))
+  * **El desconocido** (2015), by Dani de la Torre ([imdb](http://www.imdb.com/title/tt3169770))
+  * **Baby driver** (2017), by Edgar Wright ([imdb](http://www.imdb.com/title/tt3890160/))
 
 ## Want to watch again
 
@@ -328,3 +331,5 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Rescue Dawn** (2006), by Werner Herzog ([imdb](http://www.imdb.com/title/tt0462504))
   * **The best years of our lives**, by William Wyler ([imdb](http://www.imdb.com/title/tt0036868))
   * **Walk with me** (2017), by Marc J. Francis and Max Pugh ([imdb](http://www.imdb.com/title/tt2331100))
+  * **Contratiempo** (2017), by Oriol Paulo ([imdb](http://www.imdb.com/title/tt4857264/))
+  * **Perfetti sconosciuti** (2016), by Paolo Genovese ([imdb](http://www.imdb.com/title/tt4901306))
