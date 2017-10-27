@@ -199,6 +199,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **My own private Idaho**, by Gus Van Sant
   * **The collector** (1958), by William Wyler ([imdb](http://www.imdb.com/title/tt0059043))
   * **The big country**, by William Wyler ([imdb](http://www.imdb.com/title/tt0051411))
+  * **Late night shopping*, by Saul Metzstein ([imdb](http://www.imdb.com/title/tt0250491))
 
 ## Not yet watched
 
