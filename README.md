@@ -334,3 +334,4 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **The best years of our lives**, by William Wyler ([imdb](http://www.imdb.com/title/tt0036868))
   * **Walk with me** (2017), by Marc J. Francis and Max Pugh ([imdb](http://www.imdb.com/title/tt2331100))
   * **Contratiempo** (2017), by Oriol Paulo ([imdb](http://www.imdb.com/title/tt4857264/))
+  * **Wind river** (2017), by Taylor Sheridan ([imdb](http://www.imdb.com/title/tt5362988/))
