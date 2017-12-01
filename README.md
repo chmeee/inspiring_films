@@ -131,6 +131,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **El desconocido** (2015), by Dani de la Torre ([imdb](http://www.imdb.com/title/tt3169770))
   * **Baby driver** (2017), by Edgar Wright ([imdb](http://www.imdb.com/title/tt3890160/))
   * **Perfetti sconosciuti** (2016), by Paolo Genovese ([imdb](http://www.imdb.com/title/tt4901306))
+  * **Wind river** (2017), by Taylor Sheridan ([imdb](http://www.imdb.com/title/tt5362988/))
 
 ## Want to watch again
 
@@ -334,7 +335,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **The best years of our lives**, by William Wyler ([imdb](http://www.imdb.com/title/tt0036868))
   * **Walk with me** (2017), by Marc J. Francis and Max Pugh ([imdb](http://www.imdb.com/title/tt2331100))
   * **Contratiempo** (2017), by Oriol Paulo ([imdb](http://www.imdb.com/title/tt4857264/))
-  * **Wind river** (2017), by Taylor Sheridan ([imdb](http://www.imdb.com/title/tt5362988/))
-  * **La librería (2017), by Isabel Coixet
+  * **La librería** (2017), by Isabel Coixet
   * **El tercer asesino**
   * **La cordillera**
