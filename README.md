@@ -338,3 +338,4 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **La librería** (2017), by Isabel Coixet
   * **El tercer asesino**
   * **La cordillera**
+  * **Lucky** (2017), by John Carroll Lynch ([imdb](http://www.imdb.com/title/tt5859238))
