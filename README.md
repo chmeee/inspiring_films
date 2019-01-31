@@ -78,7 +78,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Only lovers left alive**, by Jim Jarmusch
   * **Twelve monkeys**, by Terry Gilliam
   * **The big Lebwosky**, by the Coen brothers
-  * **The garden of words**
+  * **The garden of words**, by Makoto Shinkai
   * **The girl who leapt through time**, by Mamoru Hosoda
   * **Rudderless** (2014), 
   * **Los amantes del círculo polar**, by Julio Medem
@@ -132,6 +132,11 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Baby driver** (2017), by Edgar Wright ([imdb](http://www.imdb.com/title/tt3890160/))
   * **Perfetti sconosciuti** (2016), by Paolo Genovese ([imdb](http://www.imdb.com/title/tt4901306))
   * **Wind river** (2017), by Taylor Sheridan ([imdb](http://www.imdb.com/title/tt5362988/))
+  * **Colossal**, by Nacho Vigalondo
+  * **Ikiru** (1952), by Akira Kurosawa ([imdb](http://www.imdb.com/title/tt0044741))
+  * **The Lobster** (2015), by Yorgos Lanthimos ([imdb](https://www.imdb.com/title/tt3464902))
+  * **Cosas que nunca te dije**, by Isabel Coixet
+  * **Your name**, by Makoto Shinkai
 
 ## Want to watch again
 
@@ -158,7 +163,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Taxi Driver**, by Martin Scorsese
   * **The bridge over river Kwai**, by David Lean
   * **The road home** (1999) , by Zhang Yimou 
-  * **Cosas que nunca te dije**, by Isabel Coixet
   * **A los que aman**, by Isabel Coixet
   * **Solaris**, by Adrei Tarkovsky
   * **Stalker**, by Adrei Tarkovsky
@@ -209,7 +213,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **The Hidden fortress**, by Akira Kurosawa
   * **Japanese Story**, 
   * **Long day's journey to the night** (1962), by Sidney Lumet
-  * **Ikiru** (1952), by Akira Kurosawa ([imdb](http://www.imdb.com/title/tt0044741))
   * **Dersu Uzala** (1975), by Akira Kurosawa ([imdb](http://www.imdb.com/title/tt0071411))
   * **Throne of blood** (1957), by Akira Kurosawa ([imdb](http://www.imdb.com/title/tt0050613))
   * **Dreams** (1990), by Akira Kurosawa
@@ -292,7 +295,6 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Evolution** by Lucile Hadzihalilovic
   * **H.** by Rania Attieh and Daniel García
   * **The Love Witch** by Anna Biller
-  * **Colossal**, by Nacho Vigalondo
   * **Conducta**
   * **Nuestra pequeña hermana**
   * **Entre le murs** (2008), by Laurent Cantet ([imdb](http://www.imdb.com/title/tt1068646))
@@ -329,7 +331,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Stranger than paradise** (1984), by Jim Jarmusch ([imdb](http://www.imdb.com/title/tt0088184))
   * **Dead man** (1995), by Jim Jarmusch ([imdb](http://www.imdb.com/title/tt0112817))
   * **Broken flowers** (2005), by Jim Jarmusch ([imdb](http://www.imdb.com/title/tt0412019))
-  * **The killing of a sacred deer**
+  * **The killing of a sacred deer**, by Yorgos Lanthimos
   * **Memories of murder** (2003)
   * **Rescue Dawn** (2006), by Werner Herzog ([imdb](http://www.imdb.com/title/tt0462504))
   * **The best years of our lives**, by William Wyler ([imdb](http://www.imdb.com/title/tt0036868))
