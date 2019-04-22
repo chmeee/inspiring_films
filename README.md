@@ -342,3 +342,5 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **La cordillera**
   * **Lucky** (2017), by John Carroll Lynch ([imdb](http://www.imdb.com/title/tt5859238))
   * **Columbus** (2017), by Kogonada ([imdb](https://www.imdb.com/title/tt5990474))
+  * **Year of the dragon** (1985), by Michael Cimino ([imdb](imdb.com/title/tt0090350))
+  * **Buffalo '66 (1998), by ([imdb](https://www.imdb.com/title/tt0118789/))
