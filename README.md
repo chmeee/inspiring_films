@@ -137,6 +137,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **The Lobster** (2015), by Yorgos Lanthimos ([imdb](https://www.imdb.com/title/tt3464902))
   * **Cosas que nunca te dije**, by Isabel Coixet
   * **Your name**, by Makoto Shinkai
+  * **Låt den rätte komma in** (2008), by Tomas Alfredson ([imdb](https://www.imdb.com/title/tt1139797))
 
 ## Want to watch again
 
