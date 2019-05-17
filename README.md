@@ -138,6 +138,7 @@ Please, feel free to fork it and add your favorite and inspiring movies, too.
   * **Cosas que nunca te dije**, by Isabel Coixet
   * **Your name**, by Makoto Shinkai
   * **Låt den rätte komma in** (2008), by Tomas Alfredson ([imdb](https://www.imdb.com/title/tt1139797))
+  * **La isla mínima** (2004), by Aberto Rodríguez ([imdb](https://www.imdb.com/title/tt3253930))
 
 ## Want to watch again
 
